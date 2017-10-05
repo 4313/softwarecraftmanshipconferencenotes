@@ -1,0 +1,8 @@
+WebOps
+
+Do you know how your web apps runs on servers?
+
+Roll out to other people. 
+Game of life in python example. 
+
+cloning from github directly. 

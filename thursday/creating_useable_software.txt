@@ -1,0 +1,15 @@
+Book:
+Usable Software Design. 
+Alexandru Bolboaca
+
+We're all designers, the user of software design is the developer. 
+Usability - 
+    Learnability
+    Efficiency
+    Satisfaction
+    Memorability
+    Errors
+
+Identify design problems. 
+book:
+Don't make me think. Steve Krug. 

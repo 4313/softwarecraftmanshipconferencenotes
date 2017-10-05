@@ -1,0 +1,52 @@
+Kata 
+
+Translation - form. 
+Question of pattern and style and training exercise.
+
+Music practise
+Deliberate practise means repitition
+You do deliberate practise to amster the task not to to complete it
+
+How did pythagoras prove pythagoras theorem
+Proof by rearrangement - folding paper etc. 
+Maths
+
+FizzBuzz
+Get people to write tests. 
+FizzBuzzCalculator
+Andersons law.
+
+Bad code is systematic. 
+
+Start thinking differently. 
+Set membership problem? 
+Why not make arrays of fizzes, buzzes
+
+AWK different computation model. Text processing language. 
+
+plan, do, study, act. 
+Empirical processes. 
+
+Make a list of truths about the results of FizzBuzz
+really a repeating cycle of 15
+j = [3,0,0,1,0,2,1,0,0,1,2,0,1,0,0]
+srand(1781773465) makes this results
+
+Infinite number of fizzes.
+Infinite number of buzzes. 
+Infinite number of words
+infinite number of numbers.
+infinite number of FizzBuzz
+
+cycle fizzes and cycle buzzes
+
+functional programming approach to FizzBuzz. 
+
+bi-quinary coded decimal is a system of numbers in 5's, roman numerals
+Do a string approach, replace IIIII's with V's etc. 
+
+Playing with notation. 
+shell script. 
+
+Questions: 
+
