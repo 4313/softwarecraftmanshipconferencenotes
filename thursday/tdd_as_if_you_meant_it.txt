@@ -1,0 +1,95 @@
+Alex Bokboaca, @alexboly
+
+TDD is like brewing coffee. 
+Clarify the problem first and allow the solution to appear from tension between existing code and problem. 
+
+Emergent design. Emergent property of a system. From programmer, test code and production code. 
+
+When doing 'Pure' TDD, you shouldn't start with any preconceived ideas about the solution.
+Most of the time we fail at this.
+
+The goal isn't to ignore past experience, but to stop you from rerunning the design you are familiar with all the time. 
+
+Constraints. 
+You are not allowed to create any:
+-   named Constant
+-   classes
+-   functions
+All production code is first written in test code and slowly factored out. 
+Groovy and spock. 
+
+write a simple test that fails. 
+What is false? 
+In logic, false i s atruth value associated to an assertion. 
+in programming false is either a constant or a result of a logical test. 
+
+"After a deposit of 5 quid, its balance is £5 quid"
+expect: 0 + 5 == 5
+
+We're only allowed to extract constant, extract variable, remove duplication.
+What is 5 and what is 0. 
+
+We are using some notions, 
+Deposit amount, empty account. 
+Empty account = account with zero balance. 
+
+We triangulate in the topology of possible solutions. 
+Initial balance
+deposit amount
+currency
+account
+
+Lets triangulate on deposit
+Equivalence partitioning or value samplying. 
+We can't test all values, so find intervals that are interesting. 
+negative, positive, zero, minimum, maximum, non-integers. 
+
+questions.
+Can we deposit negative amounts? non
+etc.
+
+find valid and invalid values on deposit amount. 
+
+Structure is repeating when we say add 1 euro. add maximum balance.
+Remove duplication after you've seen it for 3 or more times. 
+
+so add a constnat maxBalance. 
+Add data driven tests - but doesn't feel like it advances us to production code. 
+
+split out duplication into a function. 
+We didn't write a lot of code, but we learned a lot about the domain,  we learned a lot about business rules. We have the simplest solution possible. 
+We can see how code evolves constant -> variable -> method. 
+
+We can go functional or object oriented.
+We only have functions at the moment. So could go functional. 
+
+A class is nothing more than a set of cohesive, partially applied pure functions. 
+
+Back to data driven testing. 
+Property-based testing. 
+spock-genesis library. 
+
+reflection:
+Still feels slow. 
+We left our options open for a long time. 
+
+Practising TDD as if you meant it. 
+Process feels painful because its all about expanding your views. 
+
+Applying TDD as if you meant it in production 
+Mythbusters. Start with small scale experiment before scaling up. 
+
+Seperate small problems e.g: special alerts in a web app, validation in client-side code, a UI control. 
+Start a new test suite. When you have the production code, integrate it with the rest of the code. 
+Once you practise, it can get faster. 
+it helped understand about functional programming. 
+Nice to work on a small bit of clean code. 
+
+Embrace constraints. I have never been forced to accept compromises but I have willingly accepted constraints. 
+Charles Eames. 
+
+Adrian Bolboaca blog on code kata. 
+mozaicworks.com 
+
+Questions:
+Should you use it for all prod code? No, just small examples where we don't understand the problem very well. Good technique to have when it applies. 
