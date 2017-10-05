@@ -1,0 +1,118 @@
+First presentation by @sandromancuso, Software Craftmanship (2008 - 2017)
+
+Founding books of movement in the 90's:
+The Pragmatic Programmer. Andrew Hunt, David Thomas
+Software Craftmanship: The New Imperative. Pete McBreen
+
+Better relationships with our clients etc.
+
+'The problem was - Agile happened at the same time' somewhat worrying. 
+Short feedback loop.
+Software Craftmanship overshadowed by Agile. 
+
+'Agile processes and tools became more important than technical excellence'. Is that really true? 
+The Agile Hangover: 
+Many Agile projects are now, steadily and iteratively producing bad software. 
+
+2005-2008
+Adopting the processes, but not changing the mentality of the teams. Communication breakdown between scrum coaches and developers. 
+C-Level people giving big speeches every 6 months, but the business pace is determined by software releases. 
+
+2010 founding of London Software Craftmanship Community
+Spreading around europe and israel. 
+Global day of Code Retreat. 50 cities, 1000 developers. 
+Code Retreat: 45 minute sprints of solving the same problem but with different techniques. 
+
+They're excited about 11,000 developers signing their manifesto.
+
+The Software Craftsman, book plug by speaker. 
+
+Extreme Programming. Cross-pollination. Deliberate Practise. Micro Design, Clean Code. 
+Most focus on extreme programming, pairing etc. 
+
+Where are we now? 
+LSCC has 4000 members.
+londonswcraft.com 
+
+Overall world 131,594 members. 
+SoCraTes conferences, code retreat kind of thing. 
+
+Lots of mentions of XP. 
+Software Craftmanship is becoming mainstream.
+He thinks that is because big companies are demanding it. Saying they are disappointed by agile, but 'mature' enough to admit defeat. 
+I suspect that's businesses who haven't actually embraced agile looking for a way to blame agile for their own failures
+and 'solve' that using a different branded methodology. 
+
+There is no reliable data that states how many developers exists. 
+Tiny tiny population on meetup.com compared to everything else. 
+Claims the fact that java has fewer meetups than agile project management means that people who are doing agile aren't interested in software. 
+JAVA does not equal being interested in software. Other languages exist. 
+
+Communities are growing. Victim of its own success, lost it's intimacy. 
+Most new members are inexperienced developers. Experienced developers are not as active as before. 
+
+Industry in a constant state of inexperience. 
+
+Software Craftmanship is a mindset - a relentless journey to achieve mastery. 
+On a professional side - satisfying clients with professionalism and pragmatism. 
+
+if you want to be treated as a professional start behaving like one. 
+Developers love complaining. 
+Saying that wouldn't you be outraged if you had to pay for your solicitors or hairdressers training and education. 
+Companies should invest in their employees but it's a bonus not a right. 
+Asking for a pay rise, what are you offering that's different?
+
+Software Craftmanship seems to be 'about' many many things. 
+Sharing our knowledge, preparing next generation and moving our industry forward. 
+
+Practises are a means to an end.  We should be atttached to the value they provide, not to the practices themeselves. 
+
+Software Craftmanship IS NOT XP (eXtreme Programming)
+
+What about the future? 
+
+Technical focus. 
+
+Innovation. Searches for new practices. Architecture. More focus on macro design, arhitecture and cloud solutions
+work being done on finding new practices. Seems to be mixing in  again with XP. 
+
+Move beyond clean code. 
+
+More work on:
+Change: learn how to drive technical changes. 
+Collaboration: business and agile/lean processes. 
+Shareing: books etc. 
+
+Complaining about our company: Maybe it's our fault for not selling the value. 
+Values driven approach with business. 
+
+Provide space for the beginners and experienced. 
+Keep doing the foundation work with XP practices. 
+Spread craftmanship to other software cdevelopment to other areas. 
+
+Closer collaboration needed. 
+
+Career ownership:
+Decided what to learn and when to learn
+Work for companies that see IT as a strategic part of their business instead of a cost centre
+Stop the sense of entitlement. 
+
+Business involvement:
+Try and get closer to businesses. We've focused too long on technocal practises. 
+
+Software craftmanship companies:
+Core functions including software development teams. 
+Self-management / full involvement in the business
+More companies with developers at the centre.
+Financial transparency.
+Culture of learning in its DNA
+Focused on providing best value
+apprenticeship programs. 
+
+Diagram, Joining Agile, lean and craftmanship together to form business excellence. 
+
+When craftmanship was born, big friction with Agile and Lean. 
+
+Challenge: Can we help industry to mature when developer numbers doubling every 5 years. 
+Community of professionals. 
+
