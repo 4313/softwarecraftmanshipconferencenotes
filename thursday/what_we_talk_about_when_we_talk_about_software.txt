@@ -1,0 +1,91 @@
+What we talk about when we talk about software
+
+Half-formed thoughts about metaphor, tech debt and conways law
+Nat Pryce
+Nat@natpryce.com
+
+Layered architecture diagram, upside down. no one likes it. 
+
+'Desktop' metaphor of working on a desk. LISA. 
+
+Mataphor stretched ad absurdum. Microsoft Bob. All their applications were in a house. 
+The dog became clippy. 
+Block based programming metaphor, Scratch. 
+Unix Pipes, metaphor. 
+
+XP system metaphor? Each project has to have a metaphor to allow people to talk about it. Didn't catch on. 
+Circuit diagram metaphor. 
+
+George Lakoff
+Metaphors we live by. 
+Where Mathematics comes from. 
+
+We use metaphors to help people understand new things they don't understand in terms of old things they do understand. 
+
+Metaphors limits what you can do because you can't break outside the old way of things too much. 
+Apple slowly reduced the similarity between notes app and a physical notepad. 
+
+Idioms, metaphors that have kicked the bucket. 
+Library used to be an actual physical library. Patch used to be an actual physical patch on cards. Bugs where bugs etc. Logs used to be logs thrown off ships.
+Figurative metaphor is technical debt. It has a useful time period, but then starts to become a drag.
+
+Figurative metaphor chosen deliberately. Cognitive metaphor. 
+We live in the physical world, in social groups. Anything more abstract than that as metaphor. 
+When people talk about a personality trait thats rough and smooth - the same areas of the brain light up as touch.
+This means virtually nothing given the complexity of brain neural nets. 
+
+If we are talking about more of something, we conceptualise as up. 
+'Fell by 10%'. Other cultures have different directions of metaphor for this. 
+
+Do we just think about it like that, or is it because the early diagrams were like that and its snowballed from there? 
+
+Mapping onto different target domains. 
+Up and down,  mapped on to more/less, happy/sad, Pure/corrupt, abstract/concrete. 
+
+Software uses vertical orientation a lot. Abstract is up, Control is up, people is up, hardware is down, Dependencies point downwards.
+Containment - Program <b>in</b> java. 
+
+Things in centre are often vulnerable, protected by bounderies. 
+Terms of front-end developer vs back-end developer. 
+
+Big is important, big is powerful. 
+Big data. 
+
+Size related to importance. Maybe use it more in our software design. 
+
+Entailment and coherence. 
+Can choose words in metaphorical domain that convey far more than simple statements. 
+
+Metaphor is a double-edged sword. 
+Can speed up communication, but stops us from thinking outside the terms of the metaphor. 
+
+How we describe a system affects how we plan to build it. 
+
+Big bang release. System was described in a linear timeline. 
+Alternative depiction. centre with outside user applications. 
+Allowed team to build it in slices a lot better. 
+
+Conways law:
+Any organization bulding a system will match the organization communications structure. 
+If you have four groups working on a compiler you will get a four-pass compiler. 
+Pass is a metaphor. If you talk about the system in a different way, it lends itself to forming teams differently. 
+
+Summary:
+
+Metaphor helps and hinders
+figurative metaphor is technical debt
+cognitive metaphor is inescapable
+metaphor precedes conways law. 
+
+Questions:
+Book was very academic with no outcomes, is this your output from it? 
+He's an acemdemic so knew which bits to skip. Made him hyper-sensitive to the use of metaphor. Example of:
+Tapestry metaphor used for creative writing application. People started saying that each story writer is a thread
+and tapestries get stronger with more threads so we should allow as many people to write each story as possible. 
+Clearly became a problem because that is totally false. 
+
+Domain expert originates the metaphor, how much power does the developer actually have?
+The more you talk to the domain experts, the more feedback you get and you can shape it
+
+Where does bug come from? Not actually from computing. A problem in a machine. He doesn't know. 
+
