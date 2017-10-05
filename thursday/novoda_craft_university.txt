@@ -1,0 +1,79 @@
+Novoda mobile app agency. 
+
+Always a bad start defining a word. 
+
+Challenges
+- Constant individual learning
+- communication
+
+The word journey has been mentioned enough times to count as a pyramid selling presentation
+please god stop saying journey
+
+Pragmatism 
+
+job titles, should you be defined? 
+new titles 
+- learning. Apprentice
+- contributing. Journeyman.
+- Mentoring. Master. 
+
+Thanks for generic career advice. 'Where do you see yourself in 1,2 and 5 years. 
+
+Created Novoda Craftmanship University. 
+If he's a lecturer then no. 
+5 modules, one book. Target oriented. 
+Module 1 - android/iOS, our process and clean-coding. 
+They do some online modules. 
+Read Clean Code by Robert C Martin. 
+
+Hack and tell: Person gives a 10-20 minute presentaiton about what they've learnt. Basically lunch 'n' learn. 
+
+Module 2.
+Novoda best practices. 
+
+Read a book from reading list. 
+Coding Kata. Run by the buddy. 
+
+Kotlin/Java and Swift. 
+PRactice and repetition
+
+Module 3
+Testing and refactoring code. 
+
+How do we write as bug free code as possible. 
+Account for design changes. 
+book:
+Growing OO software, guided by tests. 
+The coding dojo handbook. Emily Bache. 
+
+Module 4
+On agility and our process. 
+Run a retro. 
+books:
+Scrum a breathtakingly brief and agile introduction. 
+The nature of software development
+Workshop - group discussion. 
+
+Module 5:
+On professionalism, working with clients and soft skills. 
+
+Constant communication on client needs. 
+Books:
+Getting to yes
+Nonviolent communication
+driving technical changes
+the clean coder
+the software Craftmanship
+soft skills, the software developers life manual.
+Reflection on past behaviour
+giving constructive feedback on pull requests
+developing a tech problem
+proposing alternatives. 
+speaking with colleagues partners. 
+Store previous work done by other students, to give an idea. 
+
+NCU certificate.
+
+Questions:
+ASked about how you can measure the impact you have?
+They're working at it. Hitting deadlines, bug reports etc. GitPrime? Data munging on repositories. 
