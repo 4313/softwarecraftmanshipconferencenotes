@@ -1,0 +1,53 @@
+How to exoanding the practices, principles and values that you care about
+1: Transformation
+2: Culture
+3: Strategies
+
+1 The Lean/Agile Transformation
+    Large bank. Heard people say this never works. Went ahead anyway. 
+    Large department. Very high attrition rate. Low motivation. 
+    Big vision. Give the power back. 
+    Assembling the coaching team. 
+    Setting the Transformation goals. Business and technical people disagree. Lost the key people
+    Failed. There doesn't seem to be a detailed dissection as to why. 
+2 Culture
+    Change is Hard. 
+    How do you get a large organization to change culture. Not possible. 
+    He created a seperate office for only people with the right mindset
+    The secret to successful change is.... come back to it later. 
+    WHat is culture? Coursera: Culture Drive Team BUilding
+    Habits acquired as part of the culture you're in. 
+    The 4 forces of culture/ cultural transmission
+    1: inertial force. Culture stays around long after reason has left. 
+    2: Entropic force. Random change. 
+    3: Reflective (Metacultural) Force. Culture about culture. Essentially rules. 
+    4: The force of interest. Do people care? 
+    Current Culture moving to Wanted Culture. Inertia will stop you. Entropy random. Metaculture can help you or hinder you. Interest likewise. 
+    The secret: The new culture must APPEAR to grow organically out of the old culture.
+3 Strategies
+    Culture eats strategy for lunch. 
+    Easiest scenario - New company
+        Be careful of entropic. Set up Metacultural rules. Set up inertia in the interest of good. "That's not the way we do it" can be either really positive or negative
+    Scenario: Big company, bottom up change
+        Got a lot of interest, but inertia back is strong. Metaculture pushing back. Many cases it's best to give up. 
+        Community Alignment - align the grassroots strongly
+        Spotify model. 
+        Reframing - Technical practices are business concerns
+            Think about our messaging
+            Clean code: Maintain pace into the future, optionality. 
+            Continous integraton: reducing risk
+            Continuous delivery: reducing risk
+        Business Alignment
+            Impact mapping - Goal, ACtor, Impact, Deliverable
+            Roadmaps - If business is doing these without the software craftspeople then thats a problem
+            Lean and systems thinking - Visualize the entire value stream. Over 100 steps in process
+                From input to output of value. 
+        Learning - Elevate learning to the highest level goal of the company
+        Communication - You need to get better at communication
+            Cognitive Bias. We think we're good at communication but we aren't. 
+            Avoiding bias.
+                Clean language
+                Non-violent communication
+                8 Behaviours for smarter teams. 
+                    1. transparent about your thinking
+                Book: More Fearless Change

@@ -1,0 +1,21 @@
+Excuse to present about Kotlin
+Clean code is subjective. 
+Messy Code is objective. 
+
+Kotlin - ALternatative language for Android Development
+
+Kotlin data class
+Reducing lines of code
+
+Kotlin eliminate idea of Null's 
+In java have to check if things aren't null. 
+
+Avoiding repitition 
+Optional parameters. 
+
+Dealing with collections. 
+
+Book:
+Gang of 4
+
+function signature for higher order functions, includes explicitly how function is treated
