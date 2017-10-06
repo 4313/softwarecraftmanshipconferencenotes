@@ -1,0 +1,52 @@
+books:
+elements of style
+the craftsman
+
+software craftsmanship not a metaphor
+Motivation:
+Motivation is more important than talent. 
+Craftmanship is a human impulse. We want to do a job well. 
+Conflicting objectives - impaired by competitive pressure, frustration and obsession
+The 'How' and the 'Why'. Hannah ARendt: ANimal laborans vs Home Faber. Animal laborans is not asking why. Home Faber asking why. 
+Always good to quote aristotle. 
+There shouldn't be a seperation between designers and builders. 
+Unequal workplaces:
+    Why are stradivarious violins not as good after he died despite the fact he didn;t personally make all of them
+    head and hand, thinking and geeling, what and why. 
+    Leads to fractured skill.
+    When people who do deployments, analyze business value and build code are seperate then skill is fractured. 
+Path to fewer erros
+LEarning is a process of trial and error. A path from many errors to fewer errors. 
+Teach to learn and reason rather than imitate. 
+
+Perfection is a good thing, balanced with pragmatism
+Material focus
+    Grain of change
+    The head and the hand working in unison.
+Metaphor of a wood carver. They have an idea of a form. Look at the material and the tools. 
+They suddenly encounter knots in the wood and other features. They work round it and form something that fits the type form in their head.
+
+Continous deployment is so important because it reduces the size of the feedback loop in fractured skills
+
+Minimal Force
+    Chinese proverb about cleaving a grain of rice with a cleaver
+    Are we using a sledgehammer to crack a nut? 
+
+Generic Vs Specific
+    The scalpel vs guillotine for cutting a straight line in a piece of paper. 
+    Scalpel is very generic, so requires a massive about skill to carry out the specific task that guillotine can carry out with no skill.
+
+Conclusion:
+    THinking deeper helps with the mindset
+    leverage our impulse, eliminate confluciting forces
+    Learn through experimentation and organize our obsession, keep material focues, apply minimum foce,
+    master the generic and the specific
+
+Questions:
+Talka bout pragmatism? How do you apply craft when deadlines are pending? 
+This comes down to material focus. The business objectevies have a time constraint, they are part of the material focus. 
+Why is this business deadline real? Is it just a number in a spreadsheet? Make sure it's a real deadline before you make compromise. 
+
+Is craftmanship compatible with classic hierarchy in companies? 
+He's not a fan of making the craftsman metaphor into hierarchial structure. What is the actual need behind the hierarchial structure? 
+Make sure its meeting the need. 

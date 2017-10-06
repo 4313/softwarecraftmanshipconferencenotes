@@ -1,0 +1,12 @@
+Lots of examples of end of the world software failures
+
+How do we catch security vulnerabilities? How do we know a library is safe before we use it? 
+They've now spent 30 minutes defining a list in Haskell.
+Exploring whether type's can prevent errors. 
+
+I think this talk is a good example of speakers deciding to talk about what they're interested in rather than thinking about their audience at all. 
+sel4 Microkernel 
+Seem to actually be talking about mathematical proofs of compiler accuracy. 
+
+Program by Design approach - intro to functional programming
+You should think about properties. 

@@ -1,0 +1,29 @@
+Describes a spike on a Go testing suite to improve it
+On writing expressive tests in Go and Ginkgo 
+Zuhlke Engineering
+The cast of characters:
+CloundFoundy platform for developing and deploying enterprise cloud apps
+BOSH tool for releasing engineering etc
+Service Broker
+On-demand service Broker - tool we are working on
+service Adapter
+ginkgo/gomega testing frameworks
+
+How do you test an on-demand broker? 
+
+Move from lots of assertions to a single assertion. 
+Refactoring tests. 
+
+started a parallel integration test suite for a spike
+Lots of fake classes that are behaviour-attractors 
+Domain-Language approach. 
+Try not to overwork the Testing framework. 
+
+Reduced the noise.
+Better use of expressive matchers. 
+
+Problem
+The indirection of the setup was hard to understnad
+different apporach, learning curve. 
+
+Keep your tests under control, even in a prototype. 

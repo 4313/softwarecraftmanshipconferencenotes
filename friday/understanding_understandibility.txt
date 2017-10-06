@@ -1,0 +1,38 @@
+Understandibility of code is one of the most important things.
+Lots of different styles of programming so it's hard to a handle on it. 
+
+Trying to develop Understandibility metrics is hard
+Paper: not very much progress on automation. 
+You can score very high on the current benchmarks and still have difficult to understand code. 
+Eye tracking experiments show time on each word in code is roughly constant. So faster to understand if less code. 
+
+Verbose vs cryptic 
+Markov Chaining
+markvchaney.rb 
+APL/Jay/J old mathematical computing language. 
+
+Shape polymorphism. 
+Operator is defined for all types of data and dimensionality. 
+Interesting way of thinking about solving problems, using matrices etc. 
+
+Found a more primitive operation than a sort, returning an array of positions that the numbers would be in.
+Conways life in J
+(_3 _3 (+/ e. 3+0,4&{)@,;._3])@(0,0,~0,.0,.~)
+
+Create a matrix of 1's and 0's. 
+shift starter matrix in 9 different directions. 
+Add each resultant matrix to each other and you get number of neighbours. 
+
+We are going to keep getting higher and higher level.
+Expressiveness
+Problem: print a polynomial
+More problematic than you might expect. 
+What about 0's? What about negative numbers? Do we change the + between terms to a minus. 
+
+Favour Locality.
+Don't Invite Tangles.
+Move toward high level operations. 
+
+Questions:
+What about logging? Basically there isn't a proper solution yet. 
+For teaching a novice? MIT have moved from teaching high level operations, he thinks we should move back.
